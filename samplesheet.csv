@@ -1,0 +1,5 @@
+sample,group,fastq_1,fastq_2
+463-V0D00,0,https://github.com/yumyai/test-datasets/raw/minbreeze/testdata/463-P-C-V0D00_R1.fastq.gz,https://github.com/yumyai/test-datasets/raw/minbreeze/testdata/463-P-C-V0D00_R2.fastq.gz
+463-V5D35,0,https://github.com/yumyai/test-datasets/raw/minbreeze/testdata/463-P-C-V5D35_R1.fastq.gz,https://github.com/yumyai/test-datasets/raw/minbreeze/testdata/463-P-C-V5D35_R2.fastq.gz
+761-V0D00,0,https://github.com/yumyai/test-datasets/raw/minbreeze/testdata/761-C-T-V0D00_R1.fastq.gz,https://github.com/yumyai/test-datasets/raw/minbreeze/testdata/761-C-T-V00D0_R2.fastq.gz
+761-V5D35,0,https://github.com/yumyai/test-datasets/raw/minbreeze/testdata/761-C-T-V5D35_R1.fastq.gz,https://github.com/yumyai/test-datasets/raw/minbreeze/testdata/761-C-T-V5D35_R2.fastq.gz
