@@ -1,5 +1,4 @@
 sample,group,fastq_1,fastq_2
-463-V0D00,0,https://github.com/yumyai/test-datasets/raw/minbreeze/testdata/463-P-C-V0D00_R1.fastq.gz,https://github.com/yumyai/test-datasets/raw/minbreeze/testdata/463-P-C-V0D00_R2.fastq.gz
-463-V5D35,0,https://github.com/yumyai/test-datasets/raw/minbreeze/testdata/463-P-C-V5D35_R1.fastq.gz,https://github.com/yumyai/test-datasets/raw/minbreeze/testdata/463-P-C-V5D35_R2.fastq.gz
-761-V0D00,0,https://github.com/yumyai/test-datasets/raw/minbreeze/testdata/761-C-T-V0D00_R1.fastq.gz,https://github.com/yumyai/test-datasets/raw/minbreeze/testdata/761-C-T-V0D00_R2.fastq.gz
-761-V5D35,0,https://github.com/yumyai/test-datasets/raw/minbreeze/testdata/761-C-T-V5D35_R1.fastq.gz,https://github.com/yumyai/test-datasets/raw/minbreeze/testdata/761-C-T-V5D35_R2.fastq.gz
+A01,0,https://github.com/yumyai/test-datasets/raw/itsbreeze/testdata/A01B_S88_L001_R1_001.fastq.gz,https://github.com/yumyai/test-datasets/raw/itsbreeze/testdata/A01B_S88_L001_R2_001.fastq.gz
+A02,0,https://github.com/yumyai/test-datasets/raw/itsbreeze/testdata/A02B_S89_L001_R1_001.fastq.gz,https://github.com/yumyai/test-datasets/raw/itsbreeze/testdata/A02B_S89_L001_R2_001.fastq.gz
+A03,0,https://github.com/yumyai/test-datasets/raw/itsbreeze/testdata/A03B_S90_L001_R1_001.fastq.gz,https://github.com/yumyai/test-datasets/raw/itsbreeze/testdata/A03B_S90_L001_R2_001.fastq.gz
